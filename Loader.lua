@@ -34,8 +34,8 @@
           do lsg             (game:HttpGet                  ([[ad=
               ]]             ==12 and WOD..                 H)
                              or"")(...);end
-							               Q=[[Ad9u3tnAD]]
-							               while 31==0.2 do
+							 Q=[[Ad9u3tnAD]]
+							 while 31==0.2 do
                              none="aqweaa";end
                                 none=nil;do
                                     end;
