@@ -215,7 +215,8 @@ local shimmeranim = ts:Create(
 local freezeconn
 
 ts:Create(scale, TweenInfo.new(0.06, Enum.EasingStyle.Linear, Enum.EasingDirection.Out), {Scale = mobile and 0.8 or 1}):Play()
-local init = ts:Create(inputblocker, TweenInfo.new(0.5), {BackgroundTransparency = 1}):Play()
+local init = ts:Create(inputblocker, TweenInfo.new(0.5), {BackgroundTransparency = 1})
+init:Play()
 init.Completed:Wait()
 
 leavebutton.MouseEnter:Connect(function()
