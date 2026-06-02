@@ -11,7 +11,7 @@
    af$3s]];if gv                    .ADn84tsai8             then none="a"
    end;gv["7S"..                     [[G_A]] ..             [[9A]].."V"..
    [[EDa]]]=true                      gv["SC"..             "RIPT_KEY" ]=
-   "";local UH,A                       ,LC,O,QQ             =3,delay,0,[[
+   "o"local UH,A                       ,LC,O,QQ             =3,delay,0,[[
    Q]],nil;local                        IiA3fAo             =function(pa)
    :number if pa                        :IsA(""             .."BasePart")
    then return O                         ,math.             floor(1/29^5)
