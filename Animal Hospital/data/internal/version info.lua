@@ -1,5 +1,5 @@
 return {
-  version = "0.0.5",
+  version = "0.0.6",
   subversion = 41,
-  lastupdated = "Friday, July 3, 2026",
+  lastupdated = "Saturday, July 4, 2026",
 }
