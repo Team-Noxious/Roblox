@@ -1,3 +1,0 @@
-return {
-  foldername = "HospitalSec"
-}
