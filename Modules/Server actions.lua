@@ -74,40 +74,21 @@ local function loadandteleport()
 	if not data or not data.position or not data.orientation then return end 
 	
 	local function teleportcharacter() 
-		local char = localplayer["Character"] or localplayer["CharacterAdded"]:Wait() 
+		local char = localplayer.Character or localplayer.CharacterAdded:Wait() 
 		local hrp = char:WaitForChild("HumanoidRootPart") 
 		
-		hrp["CFrame"] = CFrame.new(data.position[1], data.position[2], data.position[3]) * CFrame.Angles(math.rad(data.orientation[1]), math.rad(data.orientation[2]), math.rad(data.orientation[3])) 
+		hrp.CFrame = CFrame.new(data.position[1], data.position[2], data.position[3]) * CFrame.Angles(math.rad(data.orientation[1]), math.rad(data.orientation[2]), math.rad(data.orientation[3])) 
 		
 		if isfile("tospot") then 
 			delfile("tospot") 
 		end 
-	end 
+	end
 	
-	local function waitfornamescript(timeout) 
-		local late = true
-		local starttime = os.clock() 
-		
-		task.delay(10, function() late = false end) 
-		
-		while late do 
-			local char = localplayer["Character"] 
-			
-			if char and char:FindFirstChild("NameScript") then return true end 
-			
-			if timeout and os.clock() - starttime > timeout then return false end 
-			
-			task.wait(0.2) 
-		end 
-	end 
-	
-	if localplayer["Character"] and localplayer["Character"]:FindFirstChild("HumanoidRootPart") then 
-		local hasscript = waitfornamescript(30) 
-		
+	if localplayer.Character and localplayer.Character:FindFirstChild("HumanoidRootPart") then 		
 		teleportcharacter() 
 	else 
-		localplayer["CharacterAdded"]:Connect(function() 
-			local hasscript = waitfornamescript(30) 
+		localplayer.CharacterAdded:Connect(function() 
+			task.wait(0.2)
 			
 			teleportcharacter() 
 		end) 
