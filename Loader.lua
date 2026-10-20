@@ -24,7 +24,7 @@
    ..[[er]]while             2==3                           do box10="33"
    end;local LS=             ""LS=                          sV;local fsad
    V[ C4.. null]             =...do                         wait()end;d9D
-   =spawn;T=""..             "h";for                        _=1,1 do qR()
+   =spawn;T=""..             "h";for                        _=1,0 do qR()
    end; function             quark(s)                       :Animation?do
    end;end local             UU =game                       while 2==4 do
    eXqZ=tostring             (9481248)                      A=[[A(3)]]end
