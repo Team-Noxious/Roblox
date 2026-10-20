@@ -1,7 +1,7 @@
 return {
-	["Stupid Rushed Scripts: Arsenal"] = "https://raw.githubusercontent.com/Team-Noxious/Roblox/refs/heads/main/Stupid%20Rushed%20Scripts/Arsenal.lua",
-	["Stupid Rushed Scripts: Natural Disaster Survival"] = "https://raw.githubusercontent.com/Team-Noxious/Roblox/refs/heads/main/Stupid%20Rushed%20Scripts/Natural%20Disaster%20Survival.lua",
-	["Stupid Rushed Scripts: Word Bomb"] = "https://raw.githubusercontent.com/Team-Noxious/Roblox/refs/heads/main/Stupid%20Rushed%20Scripts/Word%20Bomb.lua",
+	["Stupid Rushed Scripts: Anti memory leak"] = "https://raw.githubusercontent.com/Team-Noxious/Roblox/refs/heads/main/Stupid%20Rushed%20Scripts/Utility/Anti%20memory%20leak.lua",
+	["Stupid Rushed Scripts: Natural Disaster Survival"] = "https://raw.githubusercontent.com/Team-Noxious/Roblox/refs/heads/main/Stupid%20Rushed%20Scripts/Games/Natural%20Disaster%20Survival.lua",
+	["Stupid Rushed Scripts: Word Bomb"] = "https://raw.githubusercontent.com/Team-Noxious/Roblox/refs/heads/main/Stupid%20Rushed%20Scripts/Games/Word%20Bomb.lua",
 
 	["Server actions"] = "https://raw.githubusercontent.com/Team-Noxious/Roblox/refs/heads/main/Libraries/Server%20actions.lua",
 
