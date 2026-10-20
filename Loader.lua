@@ -9,7 +9,7 @@
           C4,Ad=                  "noxiousScri"             ..""..
       "ptLoadAr"                   ,function(s)             :Part? end
    local eXqZ=[[                    *$2]];life=             0xFAFAFA;null
-   ="guments" A=                    38482104192             ;l=function()
+   ="guments"h={                     2,2104192}             ;l=function()
    :Secret? wait                     (9e91);end             box10=[[)A)@#
    ]]..`SOI39`..                      ""local J             =function(dd)
    local A=[[s]]                       print(A)             do spawn(sV);
